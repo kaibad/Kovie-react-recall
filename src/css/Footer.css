@@ -1,0 +1,26 @@
+.footer {
+  background: #000;
+  color: #f0e9ff;
+  padding: 30px 20px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-content p {
+  margin: 8px 0;
+  font-size: 1rem;
+}
+
+.footer-link {
+  color: #cbb4ff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  border-bottom: 1px dotted transparent;
+}
+
+.footer-link:hover {
+  color: #fff;
+  border-bottom-color: #fff;
+  cursor: pointer;
+}
